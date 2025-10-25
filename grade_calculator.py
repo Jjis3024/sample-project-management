@@ -1,4 +1,4 @@
-# grade_calculator.py
+# grade_calculator.
 # Simple Python program to calculate student grade
 
 def calculate_grade(marks):
