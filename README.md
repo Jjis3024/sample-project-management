@@ -25,3 +25,11 @@ Calculates and displays grades (A+, A, B, C, D, F)
 Simple CLI-based interaction
 
 Demonstrates Agile workflow (Issues → Kanban → Commits)
+
+
+How to Run the Project
+
+### Option 1: Run Online (Recommended for Demo)
+You can run this code in an online Python compiler
+
+### Option 2: Run Locally
