@@ -1,5 +1,5 @@
 # grade_calculator.py
-# Simple Python program to calculate student grades
+# Simple Python program to calculate student grade
 
 def calculate_grade(marks):
     if marks >= 90:
